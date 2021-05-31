@@ -1,1 +1,2 @@
 # TestLog4Qt
+编译release版本，log4Qt库没有编Debug版本
